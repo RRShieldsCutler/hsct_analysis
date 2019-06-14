@@ -1,4 +1,4 @@
-# Coordinated microbiome analyses of an HSCT cohort from UMN Hospital
+# Coordinated analyses of an HSCT cohort from UMN Hospital
 
 
 ### Data directory
